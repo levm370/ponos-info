@@ -1,5 +1,5 @@
 # ponOS releases
-*To download a release, go to [GitHub repository](https://github.com/levm370/PonOS)*\
+*To download a release, go to [GitHub repository](https://github.com/levm370/PonOS)*
 ```markdown
 | Release | Compiler    | VM                  |
 |---------|-------------|---------------------|
@@ -9,3 +9,4 @@
 | 4.0     | Python/WASM | PonOSBox            |
 | 4.54VFS | Python/WASM | PonOSBox/WCMP       |
 ```
+*Sorry for this table, but pages theme don't support this :(*
